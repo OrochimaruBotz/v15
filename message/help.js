@@ -1,11 +1,11 @@
 exports.infobot = (prefix) => {
 return`• ----------[ *INFO BOT* ]----------
-• *NAMA BOT :* Ramdani Botz
-• *NOMOR BOT :* 6288296339947
-• *NAMA OWNER :* Ramdani Official
-• *NOMOR OWNER :* 6289512545999
-• *LINK :* wa.me/6289512545999
-• *CREATOR :* RAMDANI OFFICIAL
+• *NAMA BOT :* Yamato Botz
+• *NOMOR BOT :* 62888049472824
+• *NAMA OWNER :* Yamato
+• *NOMOR OWNER :* 6288804947282
+• *LINK :* wa.me/6288804947282
+• *CREATOR :* Humanz
 • *BASE ORI :* RAMDANI OFFICIAL
 • *PREFIX :* MULTI PREFIX
 • *FITUR :* 500+
@@ -57,7 +57,7 @@ return`━━━━━『 *LIST PREMIUM* 』━━━━━
 }
 exports.groupbot = (prefix) => {
 return
-`kumpulan link grup bot by Ramdani Official (mastah 😎)
+`kumpulan link grup bot by HumanzOfficial (mastah 😎)
 Link grup 1 = https://chat.whatsapp.com/Gq71DUTFOhRE9efPYyobYu
 Link grup 2 = https://chat.whatsapp.com/I4qx9yNFPXP6cGP7Q1zBhq
 Link grup 3 = https://chat.whatsapp.com/IbGdZllhP0Q92BJrOwvOLK
