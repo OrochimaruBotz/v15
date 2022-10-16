@@ -3,11 +3,11 @@
   "AutoRead": true,
   "AutoRecording": true,
   "AutoReply": true,
-  "NamaSession": "sessions",
-  "NamaOwner": "YamaTo",
+  "NamaSession": "session",
+  "NamaOwner": "Humanz",
   "NamaBot": "YamaTo Botz",
   "NomorOwner": "6288804947282",
   "NomorOwner2": "6288804947282@s.whatsapp.net",
-  "NomorBot": "62888049472820",
+  "NomorBot": "62888049472823",
   "Limit": 20
 }
