@@ -24,8 +24,6 @@ spc2 = '\n                           '
 spc3 = '                   '
 spc4 = '               '
 
-require('./sc ori by Ramdani.java')
-nocache('../sc ori by Ramdani.java', module => console.log(color('[WARN]', 'yellow'), color(`'${module}'`, 'yellow'), 'File is updated!'))
 require('./ramdani.js')
 nocache('../ramdani.js', module => console.log(color('[WARN]', 'yellow'), color(`'${module}'`, 'yellow'), 'File is updated!'))
 require('./main.js')
